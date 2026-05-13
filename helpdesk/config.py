@@ -1,1 +1,0 @@
-DB_NAME = "helpdesk_db"
